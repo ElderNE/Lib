@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.04a20f81.css",
-    "main.js": "/static/js/main.a569a39a.js",
+    "main.js": "/static/js/main.940c9f65.js",
     "static/media/background.jpg": "/static/media/background.eda48127e33aff8a2940.jpg",
     "static/media/light.png": "/static/media/light.ea1f8e82a17741132d8b.png",
     "static/media/shelf.png": "/static/media/shelf.1445afabba75122cf156.png",
     "static/media/ofont.ru_Bodoni.ttf": "/static/media/ofont.ru_Bodoni.65ee0d74ae16869e6c8b.ttf",
     "index.html": "/index.html",
     "main.04a20f81.css.map": "/static/css/main.04a20f81.css.map",
-    "main.a569a39a.js.map": "/static/js/main.a569a39a.js.map"
+    "main.940c9f65.js.map": "/static/js/main.940c9f65.js.map"
   },
   "entrypoints": [
     "static/css/main.04a20f81.css",
-    "static/js/main.a569a39a.js"
+    "static/js/main.940c9f65.js"
   ]
 }
